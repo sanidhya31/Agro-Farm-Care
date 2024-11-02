@@ -1,0 +1,3 @@
+# Normalize all text files to LF (Unix-style) in the repository
+* text=auto
+*.csv text eol=lf
